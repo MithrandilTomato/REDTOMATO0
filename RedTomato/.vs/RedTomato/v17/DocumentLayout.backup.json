@@ -1,0 +1,485 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\selim\\RedTomato\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|c:\\users\\selim\\redtomato\\assets\\scripts\\enemy\\wormenemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\wormenemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|c:\\users\\selim\\redtomato\\assets\\scripts\\enemy\\carenemydestroyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\carenemydestroyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|C:\\Users\\selim\\RedTomato\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|C:\\Users\\selim\\RedTomato\\assets\\scripts\\managers\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|C:\\Users\\selim\\RedTomato\\assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\UI\\SimpleCarController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UI\\SimpleCarController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|C:\\Users\\selim\\RedTomato\\assets\\scripts\\terrain\\platformmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\terrain\\platformmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\selim\\RedTomato\\Library\\PackageCache\\com.unity.ugui@2.0.0\\Runtime\\UGUI\\EventSystem\\InputModules\\BaseInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@2.0.0\\Runtime\\UGUI\\EventSystem\\InputModules\\BaseInput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|C:\\Users\\selim\\RedTomato\\assets\\scripts\\enemy\\killzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\killzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|C:\\Users\\selim\\RedTomato\\assets\\scripts\\player\\joystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\joystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Camera\\SceneTransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Camera\\SceneTransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|C:\\Users\\selim\\RedTomato\\assets\\scripts\\enemy\\enemy_walker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemy_walker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|C:\\Users\\selim\\RedTomato\\assets\\scripts\\managers\\optionsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\optionsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|C:\\Users\\selim\\RedTomato\\assets\\scripts\\gameplay\\starcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameplay\\starcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|C:\\Users\\selim\\RedTomato\\assets\\scripts\\ui\\starsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\starsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|C:\\Users\\selim\\RedTomato\\assets\\scripts\\ui\\backgroundscaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\backgroundscaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|C:\\Users\\selim\\RedTomato\\assets\\scripts\\ui\\skinbuttoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\skinbuttoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|C:\\Users\\selim\\RedTomato\\assets\\scripts\\managers\\levelselectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\levelselectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|C:\\Users\\selim\\RedTomato\\assets\\scripts\\gameplay\\levelendtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameplay\\levelendtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|C:\\Users\\selim\\RedTomato\\assets\\scripts\\terrain\\breakableterrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\terrain\\breakableterrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|C:\\Users\\selim\\RedTomato\\assets\\scripts\\managers\\creditsmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\creditsmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|C:\\Users\\selim\\RedTomato\\assets\\scripts\\managers\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|C:\\Users\\selim\\RedTomato\\assets\\scripts\\enemy\\stomptrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\stomptrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|C:\\Users\\selim\\RedTomato\\assets\\scripts\\ui\\heartui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\heartui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|C:\\Users\\selim\\RedTomato\\assets\\scripts\\enemy\\spikedamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\spikedamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|C:\\Users\\selim\\RedTomato\\assets\\scripts\\gameplay\\checkpointflag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameplay\\checkpointflag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|C:\\Users\\selim\\RedTomato\\assets\\scripts\\enemy\\fallingprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\fallingprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|C:\\Users\\selim\\RedTomato\\assets\\scripts\\enemy\\flyingenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\flyingenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|C:\\Users\\selim\\RedTomato\\assets\\scripts\\camera\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6709309-087C-1AB6-AD91-F85273DB61E9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarEnemyDestroyer.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Enemy\\CarEnemyDestroyer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\CarEnemyDestroyer.cs",
+              "ToolTip": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Enemy\\CarEnemyDestroyer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\CarEnemyDestroyer.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAUwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T15:30:21.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Managers\\MainMenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\MainMenuManager.cs",
+              "ToolTip": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Managers\\MainMenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\MainMenuManager.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwCEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T21:18:39.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StarsUI.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\UI\\StarsUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\StarsUI.cs",
+              "ToolTip": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\UI\\StarsUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\StarsUI.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvzoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T18:55:13.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AgIAAEcBAAAAAAAAAAAUwFYBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T14:01:50.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BreakableTerrain.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Terrain\\BreakableTerrain.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Terrain\\BreakableTerrain.cs",
+              "ToolTip": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Terrain\\BreakableTerrain.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Terrain\\BreakableTerrain.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAUwGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:20:38.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KillZone.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Enemy\\KillZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\KillZone.cs",
+              "ToolTip": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Enemy\\KillZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\KillZone.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvygAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T15:20:07.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WormEnemyController.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Enemy\\WormEnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\WormEnemyController.cs",
+              "ToolTip": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Enemy\\WormEnemyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\WormEnemyController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAUwIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T23:41:12.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StarController.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\GamePlay\\StarController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GamePlay\\StarController.cs",
+              "ToolTip": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\GamePlay\\StarController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GamePlay\\StarController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T16:51:24.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Joystick.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Player\\Joystick.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Joystick.cs",
+              "ToolTip": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Player\\Joystick.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Joystick.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T11:49:12.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SceneTransition.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Camera\\SceneTransition.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\SceneTransition.cs",
+              "ToolTip": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Camera\\SceneTransition.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\SceneTransition.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T10:01:37.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FallingProjectile.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Enemy\\FallingProjectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\FallingProjectile.cs",
+              "ToolTip": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Enemy\\FallingProjectile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\FallingProjectile.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T16:00:19.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Managers\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\GameManager.cs",
+              "ToolTip": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Managers\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\GameManager.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAmwH4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:06:38.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SimpleCarController.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\UI\\SimpleCarController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\SimpleCarController.cs",
+              "ToolTip": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\UI\\SimpleCarController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\SimpleCarController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T16:36:57.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FlyingEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Enemy\\FlyingEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\FlyingEnemy.cs",
+              "ToolTip": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Enemy\\FlyingEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\FlyingEnemy.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T16:25:28.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlatformMover.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Terrain\\PlatformMover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Terrain\\PlatformMover.cs",
+              "ToolTip": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Terrain\\PlatformMover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Terrain\\PlatformMover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T19:06:53.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OptionsMenu.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Managers\\OptionsMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\OptionsMenu.cs",
+              "ToolTip": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Managers\\OptionsMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\OptionsMenu.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwEcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T21:38:35.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LevelSelectManager.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Managers\\LevelSelectManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\LevelSelectManager.cs",
+              "ToolTip": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Managers\\LevelSelectManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\LevelSelectManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T16:02:10.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseInput.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\RedTomato\\Library\\PackageCache\\com.unity.ugui@2.0.0\\Runtime\\UGUI\\EventSystem\\InputModules\\BaseInput.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@2.0.0\\Runtime\\UGUI\\EventSystem\\InputModules\\BaseInput.cs",
+              "ToolTip": "C:\\Users\\selim\\RedTomato\\Library\\PackageCache\\com.unity.ugui@2.0.0\\Runtime\\UGUI\\EventSystem\\InputModules\\BaseInput.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@2.0.0\\Runtime\\UGUI\\EventSystem\\InputModules\\BaseInput.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T14:58:12.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Enemy_Walker.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Enemy\\Enemy_Walker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy_Walker.cs",
+              "ToolTip": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Enemy\\Enemy_Walker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy_Walker.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T13:47:48.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BackgroundScaler.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\UI\\BackgroundScaler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\BackgroundScaler.cs",
+              "ToolTip": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\UI\\BackgroundScaler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\BackgroundScaler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T10:43:45.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SkinButtonController.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\UI\\SkinButtonController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\SkinButtonController.cs",
+              "ToolTip": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\UI\\SkinButtonController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\SkinButtonController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T19:08:45.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HeartUI.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\UI\\HeartUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\HeartUI.cs",
+              "ToolTip": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\UI\\HeartUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\HeartUI.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAD4vxgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T13:17:33.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CameraShake.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Camera\\CameraShake.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\CameraShake.cs",
+              "ToolTip": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Camera\\CameraShake.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\CameraShake.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T14:42:12.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SpikeDamage.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Enemy\\SpikeDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\SpikeDamage.cs",
+              "ToolTip": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Enemy\\SpikeDamage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\SpikeDamage.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:24:36.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreditsMenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Managers\\CreditsMenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\CreditsMenuManager.cs",
+              "ToolTip": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Managers\\CreditsMenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\CreditsMenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T22:56:21.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CheckpointFlag.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\GamePlay\\CheckpointFlag.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GamePlay\\CheckpointFlag.cs",
+              "ToolTip": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\GamePlay\\CheckpointFlag.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GamePlay\\CheckpointFlag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:26:54.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LevelEndTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\GamePlay\\LevelEndTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GamePlay\\LevelEndTrigger.cs",
+              "ToolTip": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\GamePlay\\LevelEndTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GamePlay\\LevelEndTrigger.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T13:54:05.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StompTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Enemy\\StompTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\StompTrigger.cs",
+              "ToolTip": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Enemy\\StompTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\StompTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T18:32:47.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MusicPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Managers\\MusicPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\MusicPlayer.cs",
+              "ToolTip": "C:\\Users\\selim\\RedTomato\\Assets\\Scripts\\Managers\\MusicPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\MusicPlayer.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T19:13:50.554Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

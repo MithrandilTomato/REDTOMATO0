@@ -1,0 +1,21 @@
+# -- Unity otomatik oluşturulan klasörler --
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+UserSettings/
+
+# -- VS/IDE dosyaları --
+*.csproj
+*.sln
+*.user
+*.userprefs
+
+# -- Paket kilit dosyası (lock) --
+Packages/packages-lock.json
+
+# -- Diğer sıkıştırılmış ya da geçici dosyalar --
+*.pidb
+*.booproj
+*.svd
