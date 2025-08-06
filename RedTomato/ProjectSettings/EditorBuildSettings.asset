@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 752f5fa0321fab74c838bd7b8f0d90f5
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: d2798926d4c7b18439a84ee76169bb96
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 15f53d74d71d3e64ca70c7c1d5e3b718
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: a051f37cf4c712a46bf2e9579e8c962a
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: be5045bd719be8e45920d9637f6ea076
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: d737911a1dd79434cb64ed1697500396
+  - enabled: 1
+    path: Assets/Scenes/Level6.unity
+    guid: 456e2a7cb17444243b0108d08b866cc2
+  - enabled: 1
+    path: Assets/Scenes/Level7.unity
+    guid: eeee0c0affc06df4ea79ee0acc9ff689
+  - enabled: 1
+    path: Assets/Scenes/Level8.unity
+    guid: 397d15c8375429443ba15dbbd6af4c3b
+  - enabled: 1
+    path: Assets/Scenes/Level9.unity
+    guid: ef39a35f4e540fb4a9b204824993ff27
+  - enabled: 0
+    path: Assets/Scenes/Level4444.unity
+    guid: 2a934dba854f5e04b9c90397c6eb0a50
+  - enabled: 0
+    path: Assets/Scenes/Level55555.unity
+    guid: 38d3c684dc06af74caecba782d551a15
+  - enabled: 0
+    path: Assets/Scenes/Level3OLD.unity
+    guid: 4e4dc49ddc41e334e9725b7de1253be0
+  - enabled: 0
+    path: Assets/Scenes/Level4OLD.unity
+    guid: 3482116b12e297a4c9aa6282c5b9b88e
+  - enabled: 0
+    path: Assets/Scenes/Level5OLD.unity
+    guid: b70740fdf12d54d4687f5fe90b98cf9b
+  - enabled: 0
+    path: Assets/Scenes/Level6OLD.unity
+    guid: c488e50236f5ae34888def0940004e4e
+  - enabled: 1
+    path: Assets/Scenes/LevelEND.unity
+    guid: 206eba29c1798fa4faf3e8092bb109ba
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect.unity
+    guid: 01d064bfe965fe84fbb386ca543b6409
+  - enabled: 1
+    path: Assets/Scenes/LevelMarket.unity
+    guid: 10bfea973c9797c479fb2a5ed63d5e66
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
